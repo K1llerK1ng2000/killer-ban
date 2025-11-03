@@ -32,7 +32,7 @@ This Tools is the baddest of all, ban and unban in mins 🤧. Don't work most Ti
 
 😈 : pip install requests
 
-😈 : git clone https://github.com/KillerKing2000/killer-ban.git
+😈 : git clone https://github.com/K1llerK1ng2000/killer-ban.git
 
 😈 : cd killer_ban
 
@@ -44,7 +44,7 @@ This Tools is the baddest of all, ban and unban in mins 🤧. Don't work most Ti
 ```bash
 sudo apt update && sudo apt install python3 python3-pip git
 pip3 install colorama requests 
-git clone https://github.com/KillerKing2000/killer-ban
+git clone https://github.com/K1llerK1ng2000/killer-ban.git
 cd killer-ban
 python3 killer_ban.py
 ```
