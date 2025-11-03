@@ -34,7 +34,7 @@ This Tools is the baddest of all, ban and unban in mins 🤧. Don't work most Ti
 
 😈 : git clone https://github.com/K1llerK1ng2000/killer-ban.git
 
-😈 : cd killer_ban
+😈 : cd killer-ban
 
 😈 : python killer_ban.py
 ```
