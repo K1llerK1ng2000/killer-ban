@@ -1,1 +1,71 @@
+Subject: DEATH THREAT AGAINST MARK ZUCKERBERG – {target_phone}
 
+This number {target_phone} is making calm, detailed death threats against Meta CEO Mark Zuckerberg.
+
+They know his home address, children’s school, daily routine, and have talked about weapons and escape plans.
+
+This is not a joke — it is planned and serious.
+
+FBI has been informed. Please permanently ban and preserve all data immediately.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
+
+
+Subject: BIO-TERROR THREAT – {target_phone}
+
+This account is planning to mail ricin or another poison to Mark Zuckerberg’s family home.
+
+They have shown photos of the powder, envelopes, and the exact address.
+
+CDC and police are notified. This is a real biological threat.
+
+Ban permanently and alert authorities now.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
+
+
+Subject: BOMB THREAT AT META HEADQUARTERS – {target_phone}
+
+This number is planning a car bomb or suicide vest attack at Meta HQ during work hours.
+
+They described the vehicle, amount of explosives, timer, and target entrance.
+
+Bomb squad alerted. Immediate permanent ban required.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
+
+
+Subject: KIDNAPPING THREAT – ZUCKERBERG CHILDREN – {target_phone}
+
+Planning to kidnap one or more of Mark Zuckerberg’s children from school or home.
+
+They have school names, photos, routes, and fake driver details.
+
+Secret Service informed. This is a direct threat to minors.
+
+Ban and trace urgently.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
+
+
+Subject: MASS SHOOTING THREAT AT META EVENT – {target_phone}
+
+Planning armed attack at next Meta Connect or company event.
+
+Talks about automatic weapons, body count, live-stream, and manifesto.
+
+This is an active shooter threat against employees and attendees.
+
+Permanent ban + law enforcement alert needed now.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
