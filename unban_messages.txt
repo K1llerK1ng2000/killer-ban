@@ -1,1 +1,65 @@
+Subject: WRONGFUL BAN APPEAL – {target_phone}
 
+Dear WhatsApp Appeals Team,
+
+My personal number {target_phone} was banned 3 days ago by mistake. I have never sent spam, never used third-party apps, and only message my family and close friends.
+
+I believe I was mass-reported by a scammer I blocked last month.
+
+This is my only phone and I need it for work, school, and family. Please review and restore my account as soon as possible.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
+
+
+Subject: MEDICAL EMERGENCY – {target_phone} IS MY LIFELINE
+
+I am a cancer patient undergoing chemotherapy. My number {target_phone} is the only way my doctor, hospital, and children can reach me.
+
+It was banned suddenly with no warning. I do not send bulk messages or spam — only medical updates and family chats.
+
+Please restore immediately — my health depends on it.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
+
+
+Subject: BUSINESS ACCOUNT WRONGLY BANNED – {target_phone}
+
+My verified business number {target_phone} with over 4,000 customers was banned without any reason.
+
+We never spam — we only reply to customer messages. This ban is killing my small shop and I have employees to pay.
+
+Please reinstate my business account so I can feed my family.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
+
+
+Subject: DISABLED CHILD’S ONLY COMMUNICATION – {target_phone}
+
+My non-verbal autistic son uses {target_phone} with picture messages and voice-to-text to communicate with school and therapists.
+
+The sudden ban has completely isolated him from everyone.
+
+Please restore — this is a disability rights issue and he needs his voice back.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
+
+
+Subject: FAMILY LIFELINE DURING CRISIS – {target_phone}
+
+My whole family is scattered across different countries because of war/economic crisis. {target_phone} is our only way to stay connected and know everyone is safe.
+
+We lost all contact when it was banned. We are simple users — no spam, no groups, just family calls every day.
+
+Please give us our family connection back.
+
+Reporter Name: {reporter}
+Reporter Number: {reporter_number}
+Country: {country}
