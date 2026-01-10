@@ -1,0 +1,47 @@
+URGENT: Formal Cybercrime & High-Risk Permanent Removal Request
+
+To WhatsApp Trust & Safety, Cybercrime Unit and Law Enforcement Liaison,
+
+This is a high-priority permanent ban and account termination request for WhatsApp number: {target_number}
+
+This account is actively involved in severe, organized criminal activity including:
+• Advanced phishing campaigns harvesting credentials and 2FA codes
+• Distribution of CSAM material and explicit exploitation content
+• Coordinated financial fraud and money laundering operations
+• Repeated social engineering attempts leading to account takeovers
+• Mass distribution of malicious links designed for device compromise
+
+Proof of serious violations: {proof_url}
+
+The behavior is highly sophisticated, persistent over extended periods, and poses an immediate danger to users, especially minors and vulnerable groups. This goes far beyond normal platform abuse and enters clear criminal territory.
+
+Due to the severity, documented proof, and ongoing risk to public safety, I demand immediate permanent removal of this account with no possibility of reactivation or appeal.
+
+Please escalate this to your internal security team and relevant law enforcement partners immediately.
+
+Thank you for decisive action.
+Anonymous High-Risk Reporter
+
+
+Critical Security Threat: Permanent Account Termination Required
+
+Dear WhatsApp Security & Abuse Response Team,
+
+I am submitting irrefutable evidence of extreme platform abuse and criminal conduct via number {target_number}.
+
+Observed violations include:
+- Active dissemination of child sexual abuse material (CSAM) links
+- Orchestrated large-scale phishing and credential theft operations
+- Fraudulent investment and recovery scams targeting hundreds of victims
+- Attempts to install malware/spyware through shared malicious files/links
+
+Concrete proof attached/referenced here: {proof_url}
+
+This account represents a clear and present danger to WhatsApp users worldwide. The pattern of abuse is deliberate, repeated, professional-grade, and shows zero intention to comply with platform rules.
+
+I strongly urge immediate and permanent termination of this account, blacklisting of the associated device(s), and referral to appropriate international cybercrime authorities.
+
+Failure to act swiftly could result in continued harm to innocent users.
+
+Urgent permanent action required.
+Concerned Global Security Reporter
